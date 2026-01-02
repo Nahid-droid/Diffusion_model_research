@@ -1,6 +1,6 @@
-# Stable Diffusion from Scratch (PyTorch)
+# Diffision Model Research
 
-This repository contains a purely educational, custom implementation of the Stable Diffusion inference pipeline built from scratch using PyTorch.
+This repository contains a purely educational, custom implementation of the Diffusion model inference pipeline built from scratch using PyTorch.
 
 Unlike high-level libraries (like diffusers), this project explicitly breaks down the architecture into its core components—CLIP Text Encoder, VAE (Encoder/Decoder), U-Net, and the DDPM Scheduler—making it easier to understand the inner workings of Latent Diffusion Models.
 
